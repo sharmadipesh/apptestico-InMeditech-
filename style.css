@@ -1,3 +1,12 @@
+#twitter:hover{
+    color: #0084b4!important;
+}
+#blo:hover{
+    color:#f57d00;
+}
+hr.style1{
+        border-top: 3px solid #8c8b8b;
+}
 .ttl{
     margin-bottom: 0px!important;
     font-size: 15px;
