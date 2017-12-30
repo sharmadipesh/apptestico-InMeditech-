@@ -1,3 +1,17 @@
+.bodyFont{
+    font-family: 'Tinos', serif;
+}
+.slide1{
+    height: 100px;
+    width: 200px;
+    padding-left: 30px;
+}
+.titleFonts{
+    font-family: 'Lobster', cursive;
+}
+#work:hover{
+    color:lightgreen;
+}
 .twitter:hover{
     color: #0084b4!important;
 }
@@ -114,6 +128,7 @@ u{
 }
 #textofHead{
     color:white;
+    font-family: 'Fredericka the Great', cursive;
 }
 #p1{
     color:#CCD1D1;
