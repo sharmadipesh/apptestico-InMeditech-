@@ -1,0 +1,108 @@
+.ttl{
+    margin-bottom: 0px!important;
+    font-size: 15px;
+    font-weight: bold;
+}
+.footer{
+    padding-top: 70px;
+    padding-left: 45px;
+}
+.body-fot{
+    font-size: 13px;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.symbol{
+    color: black!important;
+    font-size: 65px!important;
+    border-radius: 100%;
+}
+.hh:hover{
+    color:white!important;
+}
+.padMan{
+    padding: 20px;
+    margin-bottom: 15px;
+}
+.middle{
+    padding-top: 50px;
+}
+.company {
+    font-size: 44px!important;
+    color:#BEBEBE!important;
+}
+.center{
+    text-align: center;
+}
+#linkfor:hover{
+    background-color: black;
+}
+.and{
+    border:0px;
+}
+#Name{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    margin-left: 94px;
+}
+#side
+{
+    float: right;
+}
+#side-content{
+    padding-top: 60px;
+}
+u{
+    color: white;
+    font-size: 1rem!important;
+}
+#icon-pac
+{
+    background-color: 	#E9E9E9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#shadow-btn{
+    padding-top:33px;
+}
+#companyName{
+    /* margin-bottom: 30px; */
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+#tequest{
+    padding-right: 25px;
+    padding-left: 25px;
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2);
+}
+.bg-Color{
+    background-color: #4D5B66;
+}
+.btn-outline-dark{
+    color: white!important;
+}
+.btn{
+
+    border-radius: 40px;
+}
+.top
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 12px;
+    border:0px;
+}
+#iphone{
+    width: 300px;
+}
+#textofHead{
+    color:white;
+}
+#p1{
+    color:#CCD1D1;
+}
+#p2{
+    color:#85929E;
+}
