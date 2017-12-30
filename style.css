@@ -1,5 +1,11 @@
-#twitter:hover{
+.twitter:hover{
     color: #0084b4!important;
+}
+#facebook:hover{
+    color:#3b5998 ;
+}
+#linked:hover{
+    color:#0077B5;
 }
 #blo:hover{
     color:#f57d00;
