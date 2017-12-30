@@ -1,3 +1,9 @@
+#part4Desing{
+    padding-top: 50px;
+}
+#parentDiv{
+    border:1px solid black;
+}
 .bodyFont{
     font-family: 'Tinos', serif;
 }
@@ -97,7 +103,6 @@ u{
     padding-top:33px;
 }
 #companyName{
-    /* margin-bottom: 30px; */
     padding-top: 40px;
     padding-bottom: 50px;
 }
@@ -135,4 +140,25 @@ u{
 }
 #p2{
     color:#85929E;
+}
+#part4inside{
+    padding-left:60px;
+}
+#part3inside{
+    padding-left:60px;
+}
+#older{
+    padding-left: 33px;
+}
+#twix{
+    padding-left: 30px;
+}
+#olderParent{
+    padding-bottom: 13px;
+}
+#feedTwit{
+    padding: 9px;
+}
+#bloFeed{
+    padding-bottom: 15px;
 }
